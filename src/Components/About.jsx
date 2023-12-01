@@ -1,9 +1,9 @@
 
 function About() {
     return (
-        <div>
-
-            <h1>About Page</h1>
+        <div> 
+<br/>
+            <h1>About Me Page</h1>
             <h3>
                <p> Name: Adele</p>
                <p> Age: 27</p>
